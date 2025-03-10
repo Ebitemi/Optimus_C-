@@ -15,7 +15,7 @@ namespace AssignmentTwoQTwo
             //string result = ThreeTwo.ReverseName();
             //Console.WriteLine(result);
 
-            //Threethree.SortUniqueNumbers();
+            Threethree.SortUniqueNumbers();
             //ThreeFour.ContinousNumber();
             //ThreeFive.CommaSeperated();
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP USER\\source\\repos\\AssignmentTwoQTwo\\AssignmentTwoQTwo\\AssignmentTwoQTwo.csproj": {}
+    "C:\\Users\\HP USER\\Desktop\\C# Assignment\\AssignmentTwoQTwo\\AssignmentTwoQTwo\\AssignmentTwoQTwo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP USER\\source\\repos\\AssignmentTwoQTwo\\AssignmentTwoQTwo\\AssignmentTwoQTwo.csproj": {
+    "C:\\Users\\HP USER\\Desktop\\C# Assignment\\AssignmentTwoQTwo\\AssignmentTwoQTwo\\AssignmentTwoQTwo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP USER\\source\\repos\\AssignmentTwoQTwo\\AssignmentTwoQTwo\\AssignmentTwoQTwo.csproj",
+        "projectUniqueName": "C:\\Users\\HP USER\\Desktop\\C# Assignment\\AssignmentTwoQTwo\\AssignmentTwoQTwo\\AssignmentTwoQTwo.csproj",
         "projectName": "AssignmentTwoQTwo",
-        "projectPath": "C:\\Users\\HP USER\\source\\repos\\AssignmentTwoQTwo\\AssignmentTwoQTwo\\AssignmentTwoQTwo.csproj",
+        "projectPath": "C:\\Users\\HP USER\\Desktop\\C# Assignment\\AssignmentTwoQTwo\\AssignmentTwoQTwo\\AssignmentTwoQTwo.csproj",
         "packagesPath": "C:\\Users\\HP USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP USER\\source\\repos\\AssignmentTwoQTwo\\AssignmentTwoQTwo\\obj\\",
+        "outputPath": "C:\\Users\\HP USER\\Desktop\\C# Assignment\\AssignmentTwoQTwo\\AssignmentTwoQTwo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
