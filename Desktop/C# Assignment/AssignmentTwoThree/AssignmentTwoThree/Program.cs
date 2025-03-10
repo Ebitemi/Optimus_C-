@@ -16,7 +16,7 @@ namespace AssignmentTwoQTwo
             //Console.WriteLine(result);
 
             //Threethree.SortUniqueNumbers();
-            ThreeFour.ContinousNumber();
+            //ThreeFour.ContinousNumber();
             //ThreeFive.CommaSeperated();
 
 

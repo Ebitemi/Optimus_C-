@@ -10,29 +10,35 @@ namespace AssignmentTwoThree
     {
         public static void SortUniqueNumbers()
         {
-            var numbers = new List<int>();
-
+            List<int> numbers = new List<int>();
             while (numbers.Count < 5)
             {
-                Console.WriteLine("Type 5 unique numbers:");
-                var input = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Enter a number: ");
+                int userInput;
 
-                if (numbers.Contains(input))
+                bool isValidInput = int.TryParse(Console.ReadLine(), out userInput);
+
+                if (!isValidInput)
                 {
-                    Console.WriteLine("Error! Number already in list!");
+                    Console.WriteLine("Please enter a valid number.");
+                    continue;
                 }
 
+                if (numbers.Contains(userInput))
+                {
+                    Console.WriteLine("Error: You've already entered this number. Please try again.");
+                }
                 else
                 {
-                    numbers.Add(input);
+                    numbers.Add(userInput);
                 }
-
             }
 
             numbers.Sort();
-            foreach (var number in numbers)
+            Console.WriteLine("The sorted unique numbers are:");
+            foreach (int number in numbers)
             {
-                Console.Write("The unique numbers are:{0} ", number);
+                Console.WriteLine(number);
             }
         }
     }

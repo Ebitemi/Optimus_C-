@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP USER\\source\\repos\\AssignmentTwoThree\\AssignmentTwoThree\\AssignmentTwoThree.csproj",
+      "projectUniqueName": "C:\\Users\\HP USER\\Desktop\\C# Assignment\\AssignmentTwoThree\\AssignmentTwoThree\\AssignmentTwoThree.csproj",
       "projectName": "AssignmentTwoThree",
-      "projectPath": "C:\\Users\\HP USER\\source\\repos\\AssignmentTwoThree\\AssignmentTwoThree\\AssignmentTwoThree.csproj",
+      "projectPath": "C:\\Users\\HP USER\\Desktop\\C# Assignment\\AssignmentTwoThree\\AssignmentTwoThree\\AssignmentTwoThree.csproj",
       "packagesPath": "C:\\Users\\HP USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP USER\\source\\repos\\AssignmentTwoThree\\AssignmentTwoThree\\obj\\",
+      "outputPath": "C:\\Users\\HP USER\\Desktop\\C# Assignment\\AssignmentTwoThree\\AssignmentTwoThree\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

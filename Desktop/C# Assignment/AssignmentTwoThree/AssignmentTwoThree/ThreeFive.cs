@@ -4,34 +4,56 @@
 
 namespace AssignmentTwoThree
 {
-   public static class ThreeFive
+    public static class ThreeFive
     {
         public static void CommaSeperated()
         {
-            var list = new List<int>();
             while (true)
             {
-                Console.WriteLine("Enter a list of numbers");
-                var input = Console.ReadLine();
 
-                var array = input.Split(',');
+                Console.Write("Enter a list of comma-separated numbers:");
+                string input = Console.ReadLine();
 
-                if ((array.Length == 0) || (array.Length < 5))
+                string[] inputArray = input.Split(',');
+
+                inputArray = inputArray.Where(x => !string.IsNullOrWhiteSpace(x)).ToArray();
+
+                if (inputArray.Length < 5)
                 {
-                    Console.WriteLine("Invalid list! Try again.");
+                    Console.WriteLine("Invalid List. Please enter at least 5 numbers.");
+                    continue;
                 }
-                else
+
+                int[] numbers = new int[inputArray.Length];
+                bool validInput = true;
+
+                for (int i = 0; i < inputArray.Length; i++)
                 {
-                    foreach (var number in array)
-                        list.Add(Convert.ToInt32(number));
-                    break;
+                    if (!int.TryParse(inputArray[i].Trim(), out numbers[i]))
+                    {
+                        Console.WriteLine("Invalid List. Please make sure all entries are valid numbers.");
+                        validInput = false;
+                        break;
+                    }
                 }
+
+                if (!validInput)
+                {
+                    continue;
+                }
+
+                Array.Sort(numbers);
+
+                Console.WriteLine("The 3 smallest numbers are: ");
+                for (int i = 0; i < 3; i++)
+                {
+                    Console.WriteLine(numbers[i]);
+                }
+
+                break;
             }
-            list.Sort();
 
-            for (int i = 0; i < 3; i++)
-                Console.Write("The three smallest numbers are: {0} ", list[i]);
         }
-    }
 
+    }
 }
