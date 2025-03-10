@@ -7,16 +7,16 @@ namespace AssignmentTwoFour
         public static void Consecutive()
         {
             Console.Write("Enter a few numbers (eg 1-2-3-4): ");
-            var input = Console.ReadLine();
+            string input = Console.ReadLine();
 
-            var numbers = new List<int>();
-            foreach (var number in input.Split('-'))
+            List<int> numbers = new List<int>();
+            foreach (string number in input.Split('-'))
                 numbers.Add(Convert.ToInt32(number));
 
             numbers.Sort();
 
-            var isConsecutive = true;
-            for (var i = 1; i < numbers.Count; i++)
+            bool isConsecutive = true;
+            for (int i = 1; i < numbers.Count; i++)
             {
                 if (numbers[i] != numbers[i - 1] + 1)
                 {
@@ -25,8 +25,9 @@ namespace AssignmentTwoFour
                 }
             }
 
-            var message = isConsecutive ? "Consecutive" : "Not Consecutive";
+            string message = isConsecutive ? "Consecutive" : "Not Consecutive";
             Console.WriteLine(message);
         }
+    
     }
 }

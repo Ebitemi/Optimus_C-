@@ -10,13 +10,13 @@ namespace AssignmentTwoFive
     {
         static void Main(string[] args)
         {
-            FourOne.Consecutive();
+            //FourOne.Consecutive();
 
-            FourTwo.HyphenDuplicate();
+            //FourTwo.HyphenDuplicate();
 
-            FourThree.Time();
+            //FourThree.Time();
 
-            FourFour.PascalCase();
+            //FourFour.PascalCase();
 
             FourFive.Vowels();
 

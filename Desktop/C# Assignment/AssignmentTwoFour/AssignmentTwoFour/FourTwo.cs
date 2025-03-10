@@ -7,18 +7,18 @@ namespace AssignmentTwoFour
         public static void HyphenDuplicate()
         {
             Console.Write("Enter a few numbers (eg 1-2-3-4): ");
-            var input = Console.ReadLine();
+            string input = Console.ReadLine();
 
             if (String.IsNullOrWhiteSpace(input))
                 return;
 
-            var numbers = new List<int>();
-            foreach (var number in input.Split('-'))
+            List<int> numbers = new List<int>();
+            foreach (string number in input.Split('-'))
                 numbers.Add(Convert.ToInt32(number));
 
-            var uniques = new List<int>();
-            var includesDuplicates = false;
-            foreach (var number in numbers)
+            List<int> uniques = new List<int>();
+            bool includesDuplicates = false;
+            foreach (int number in numbers)
             {
                 if (!uniques.Contains(number))
                     uniques.Add(number);

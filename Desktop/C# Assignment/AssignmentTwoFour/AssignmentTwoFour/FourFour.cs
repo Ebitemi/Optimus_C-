@@ -7,12 +7,12 @@ namespace AssignmentTwoFour
         public static void PascalCase()
         {
             Console.Write("Enter a few words: ");
-            var input = Console.ReadLine();
+            string input = Console.ReadLine();
 
-            var variableName = "";
-            foreach (var word in input.Split(' '))
+            string variableName = "";
+            foreach (string word in input.Split(' '))
             {
-                var wordWithPascalCase = char.ToUpper(word[0]) + word.ToLower().Substring(1);
+                string wordWithPascalCase = char.ToUpper(word[0]) + word.ToLower().Substring(1);
                 variableName += wordWithPascalCase;
             }
 

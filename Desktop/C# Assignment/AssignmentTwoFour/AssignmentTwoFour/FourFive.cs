@@ -8,12 +8,12 @@ namespace AssignmentTwoFour
         public static void Vowels()
         {
             Console.Write("Enter a word: ");
-       
-            var input = Console.ReadLine().ToLower();
 
-            var vowels = new List<char>(new char[] { 'a', 'e', 'o', 'u', 'i' });
-            var vowelsCount = 0;
-            foreach (var character in input)
+            string input = Console.ReadLine().ToLower();
+
+            List<char> vowels = new List<char>(new char[] { 'a', 'e', 'o', 'u', 'i' });
+            int vowelsCount = 0;
+            foreach (char character in input)
             {
                 if (vowels.Contains(character))
                     vowelsCount++;
