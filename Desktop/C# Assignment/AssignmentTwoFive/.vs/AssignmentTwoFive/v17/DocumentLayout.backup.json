@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP USER\\source\\repos\\AssignmentTwoFive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE15C9F-12DD-4756-9C52-7680BCF000A2}|AssignmentTwoFive\\AssignmentTwoFive.csproj|c:\\users\\hp user\\source\\repos\\assignmenttwofive\\assignmenttwofive\\fiveone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE15C9F-12DD-4756-9C52-7680BCF000A2}|AssignmentTwoFive\\AssignmentTwoFive.csproj|solutionrelative:assignmenttwofive\\fiveone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE15C9F-12DD-4756-9C52-7680BCF000A2}|AssignmentTwoFive\\AssignmentTwoFive.csproj|c:\\users\\hp user\\source\\repos\\assignmenttwofive\\assignmenttwofive\\fivetwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE15C9F-12DD-4756-9C52-7680BCF000A2}|AssignmentTwoFive\\AssignmentTwoFive.csproj|solutionrelative:assignmenttwofive\\fivetwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE15C9F-12DD-4756-9C52-7680BCF000A2}|AssignmentTwoFive\\AssignmentTwoFive.csproj|c:\\users\\hp user\\source\\repos\\assignmenttwofive\\assignmenttwofive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE15C9F-12DD-4756-9C52-7680BCF000A2}|AssignmentTwoFive\\AssignmentTwoFive.csproj|solutionrelative:assignmenttwofive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FiveTwo.cs",
+              "DocumentMoniker": "C:\\Users\\HP USER\\source\\repos\\AssignmentTwoFive\\AssignmentTwoFive\\FiveTwo.cs",
+              "RelativeDocumentMoniker": "AssignmentTwoFive\\FiveTwo.cs",
+              "ToolTip": "C:\\Users\\HP USER\\source\\repos\\AssignmentTwoFive\\AssignmentTwoFive\\FiveTwo.cs",
+              "RelativeToolTip": "AssignmentTwoFive\\FiveTwo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:46:48.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FiveOne.cs",
+              "DocumentMoniker": "C:\\Users\\HP USER\\source\\repos\\AssignmentTwoFive\\AssignmentTwoFive\\FiveOne.cs",
+              "RelativeDocumentMoniker": "AssignmentTwoFive\\FiveOne.cs",
+              "ToolTip": "C:\\Users\\HP USER\\source\\repos\\AssignmentTwoFive\\AssignmentTwoFive\\FiveOne.cs",
+              "RelativeToolTip": "AssignmentTwoFive\\FiveOne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:46:27.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP USER\\source\\repos\\AssignmentTwoFive\\AssignmentTwoFive\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentTwoFive\\Program.cs",
+              "ToolTip": "C:\\Users\\HP USER\\source\\repos\\AssignmentTwoFive\\AssignmentTwoFive\\Program.cs",
+              "RelativeToolTip": "AssignmentTwoFive\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:43:42.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
