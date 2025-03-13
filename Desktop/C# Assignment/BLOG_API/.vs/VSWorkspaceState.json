@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BlogApi",
+    "\\BusinessLogicLayer1",
+    "\\BusinessLogicLayer1\\bin",
+    "\\BusinessLogicLayer1\\IService",
+    "\\DomainLayer",
+    "\\DomainLayer\\DTO",
+    "\\DomainLayer\\Models",
+    "\\DomainLayer\\Models\\TemsBlogModels"
+  ],
+  "SelectedNode": "\\BlogApi.sln",
+  "PreviewInSolutionExplorer": false
+}
