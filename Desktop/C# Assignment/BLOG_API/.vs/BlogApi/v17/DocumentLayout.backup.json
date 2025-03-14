@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP USER\\Desktop\\BLOG_API\\",
+  "WorkspaceRootPath": "C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{180856DA-6AF1-4992-BEA2-A28C34D77D3B}|DataAccessLayer1\\DataAccessLayer.csproj|c:\\users\\hp user\\desktop\\blog_api\\dataaccesslayer1\\migrations\\20250313091356_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{180856DA-6AF1-4992-BEA2-A28C34D77D3B}|DataAccessLayer1\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer1\\migrations\\20250313091356_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBE630EC-F2A2-4D8C-B1E4-F797AD3C8AFC}|BlogApi\\BlogApi.csproj|c:\\users\\aghogho.ebireri\\desktop\\optimus_c-\\desktop\\c# assignment\\blog_api\\blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE630EC-F2A2-4D8C-B1E4-F797AD3C8AFC}|BlogApi\\BlogApi.csproj|solutionrelative:blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBE630EC-F2A2-4D8C-B1E4-F797AD3C8AFC}|BlogApi\\BlogApi.csproj|c:\\users\\hp user\\desktop\\blog_api\\blogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{CBE630EC-F2A2-4D8C-B1E4-F797AD3C8AFC}|BlogApi\\BlogApi.csproj|c:\\users\\aghogho.ebireri\\desktop\\optimus_c-\\desktop\\c# assignment\\blog_api\\blogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CBE630EC-F2A2-4D8C-B1E4-F797AD3C8AFC}|BlogApi\\BlogApi.csproj|solutionrelative:blogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{180856DA-6AF1-4992-BEA2-A28C34D77D3B}|DataAccessLayer1\\DataAccessLayer.csproj|c:\\users\\hp user\\desktop\\blog_api\\dataaccesslayer1\\irepositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{180856DA-6AF1-4992-BEA2-A28C34D77D3B}|DataAccessLayer1\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer1\\irepositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\DataAccessLayer1\\Migrations\\20250313091356_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer1\\Migrations\\20250313091356_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{180856DA-6AF1-4992-BEA2-A28C34D77D3B}|DataAccessLayer1\\DataAccessLayer.csproj|c:\\users\\hp user\\desktop\\blog_api\\dataaccesslayer1\\repositries\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{180856DA-6AF1-4992-BEA2-A28C34D77D3B}|DataAccessLayer1\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer1\\repositries\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\DataAccessLayer1\\IRepositories\\IPostRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer1\\IRepositories\\IPostRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{180856DA-6AF1-4992-BEA2-A28C34D77D3B}|DataAccessLayer1\\DataAccessLayer.csproj|c:\\users\\hp user\\desktop\\blog_api\\dataaccesslayer1\\repositries\\likerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{180856DA-6AF1-4992-BEA2-A28C34D77D3B}|DataAccessLayer1\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer1\\repositries\\likerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\DataAccessLayer1\\IRepositories\\ILikeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer1\\IRepositories\\ILikeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{180856DA-6AF1-4992-BEA2-A28C34D77D3B}|DataAccessLayer1\\DataAccessLayer.csproj|c:\\users\\hp user\\desktop\\blog_api\\dataaccesslayer1\\irepositories\\ilikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{180856DA-6AF1-4992-BEA2-A28C34D77D3B}|DataAccessLayer1\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer1\\irepositories\\ilikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\DataAccessLayer1\\Repositries\\PostRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer1\\Repositries\\PostRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{180856DA-6AF1-4992-BEA2-A28C34D77D3B}|DataAccessLayer1\\DataAccessLayer.csproj|c:\\users\\hp user\\desktop\\blog_api\\dataaccesslayer1\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{180856DA-6AF1-4992-BEA2-A28C34D77D3B}|DataAccessLayer1\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer1\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\DataAccessLayer1\\Repositries\\LikeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer1\\Repositries\\LikeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{180856DA-6AF1-4992-BEA2-A28C34D77D3B}|DataAccessLayer1\\DataAccessLayer.csproj|c:\\users\\hp user\\desktop\\blog_api\\dataaccesslayer1\\irepositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{180856DA-6AF1-4992-BEA2-A28C34D77D3B}|DataAccessLayer1\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer1\\irepositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\DataAccessLayer1\\IRepositories\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer1\\IRepositories\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBE630EC-F2A2-4D8C-B1E4-F797AD3C8AFC}|BlogApi\\BlogApi.csproj|c:\\users\\hp user\\desktop\\blog_api\\blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBE630EC-F2A2-4D8C-B1E4-F797AD3C8AFC}|BlogApi\\BlogApi.csproj|solutionrelative:blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\DataAccessLayer1\\IRepositories\\ICommentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer1\\IRepositories\\ICommentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,121 +46,113 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "20250313091356_InitialMigration.cs",
-              "DocumentMoniker": "C:\\Users\\HP USER\\Desktop\\BLOG_API\\DataAccessLayer1\\Migrations\\20250313091356_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\DataAccessLayer1\\Migrations\\20250313091356_InitialMigration.cs",
               "RelativeDocumentMoniker": "DataAccessLayer1\\Migrations\\20250313091356_InitialMigration.cs",
-              "ToolTip": "C:\\Users\\HP USER\\Desktop\\BLOG_API\\DataAccessLayer1\\Migrations\\20250313091356_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\DataAccessLayer1\\Migrations\\20250313091356_InitialMigration.cs",
               "RelativeToolTip": "DataAccessLayer1\\Migrations\\20250313091356_InitialMigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T09:13:57.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T09:13:57.455Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HP USER\\Desktop\\BLOG_API\\BlogApi\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\BlogApi\\appsettings.json",
               "RelativeDocumentMoniker": "BlogApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\HP USER\\Desktop\\BLOG_API\\BlogApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\BlogApi\\appsettings.json",
               "RelativeToolTip": "BlogApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-13T09:06:07.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IPostRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP USER\\Desktop\\BLOG_API\\DataAccessLayer1\\IRepositories\\IPostRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer1\\IRepositories\\IPostRepository.cs",
-              "ToolTip": "C:\\Users\\HP USER\\Desktop\\BLOG_API\\DataAccessLayer1\\IRepositories\\IPostRepository.cs",
-              "RelativeToolTip": "DataAccessLayer1\\IRepositories\\IPostRepository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T08:51:34.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ILikeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP USER\\Desktop\\BLOG_API\\DataAccessLayer1\\IRepositories\\ILikeRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer1\\IRepositories\\ILikeRepository.cs",
-              "ToolTip": "C:\\Users\\HP USER\\Desktop\\BLOG_API\\DataAccessLayer1\\IRepositories\\ILikeRepository.cs",
-              "RelativeToolTip": "DataAccessLayer1\\IRepositories\\ILikeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T08:49:30.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T09:06:07.809Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PostRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP USER\\Desktop\\BLOG_API\\DataAccessLayer1\\Repositries\\PostRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer1\\Repositries\\PostRepository.cs",
-              "ToolTip": "C:\\Users\\HP USER\\Desktop\\BLOG_API\\DataAccessLayer1\\Repositries\\PostRepository.cs",
-              "RelativeToolTip": "DataAccessLayer1\\Repositries\\PostRepository.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\DataAccessLayer1\\IRepositories\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer1\\IRepositories\\IPostRepository.cs",
+              "ToolTip": "C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\DataAccessLayer1\\IRepositories\\IPostRepository.cs",
+              "RelativeToolTip": "DataAccessLayer1\\IRepositories\\IPostRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T08:48:11.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T08:51:34.599Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LikeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP USER\\Desktop\\BLOG_API\\DataAccessLayer1\\Repositries\\LikeRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer1\\Repositries\\LikeRepository.cs",
-              "ToolTip": "C:\\Users\\HP USER\\Desktop\\BLOG_API\\DataAccessLayer1\\Repositries\\LikeRepository.cs",
-              "RelativeToolTip": "DataAccessLayer1\\Repositries\\LikeRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAjwAoAAAABAAAAAAAAAA==",
+              "Title": "ILikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\DataAccessLayer1\\IRepositories\\ILikeRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer1\\IRepositories\\ILikeRepository.cs",
+              "ToolTip": "C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\DataAccessLayer1\\IRepositories\\ILikeRepository.cs",
+              "RelativeToolTip": "DataAccessLayer1\\IRepositories\\ILikeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T08:47:48.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T08:49:30.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\DataAccessLayer1\\Repositries\\PostRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer1\\Repositries\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\DataAccessLayer1\\Repositries\\PostRepository.cs",
+              "RelativeToolTip": "DataAccessLayer1\\Repositries\\PostRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:48:11.062Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP USER\\Desktop\\BLOG_API\\DataAccessLayer1\\IRepositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer1\\IRepositories\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\HP USER\\Desktop\\BLOG_API\\DataAccessLayer1\\IRepositories\\IUserRepository.cs",
-              "RelativeToolTip": "DataAccessLayer1\\IRepositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Title": "LikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\DataAccessLayer1\\Repositries\\LikeRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer1\\Repositries\\LikeRepository.cs",
+              "ToolTip": "C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\DataAccessLayer1\\Repositries\\LikeRepository.cs",
+              "RelativeToolTip": "DataAccessLayer1\\Repositries\\LikeRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T08:46:38.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T08:47:48.433Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ICommentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP USER\\Desktop\\BLOG_API\\DataAccessLayer1\\IRepositories\\ICommentRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer1\\IRepositories\\ICommentRepository.cs",
-              "ToolTip": "C:\\Users\\HP USER\\Desktop\\BLOG_API\\DataAccessLayer1\\IRepositories\\ICommentRepository.cs",
-              "RelativeToolTip": "DataAccessLayer1\\IRepositories\\ICommentRepository.cs",
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\DataAccessLayer1\\IRepositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer1\\IRepositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\DataAccessLayer1\\IRepositories\\IUserRepository.cs",
+              "RelativeToolTip": "DataAccessLayer1\\IRepositories\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T08:45:21.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T08:46:38.052Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\DataAccessLayer1\\IRepositories\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer1\\IRepositories\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\DataAccessLayer1\\IRepositories\\ICommentRepository.cs",
+              "RelativeToolTip": "DataAccessLayer1\\IRepositories\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:45:21.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP USER\\Desktop\\BLOG_API\\BlogApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\BlogApi\\Program.cs",
               "RelativeDocumentMoniker": "BlogApi\\Program.cs",
-              "ToolTip": "C:\\Users\\HP USER\\Desktop\\BLOG_API\\BlogApi\\Program.cs",
+              "ToolTip": "C:\\Users\\aghogho.ebireri\\Desktop\\Optimus_C-\\Desktop\\C# Assignment\\BLOG_API\\BlogApi\\Program.cs",
               "RelativeToolTip": "BlogApi\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAswC8AAABLAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T14:33:28.455Z",
               "EditorCaption": ""
